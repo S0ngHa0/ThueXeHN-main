@@ -93,13 +93,13 @@ const Home = () => {
   }, []);
 
   const cardData = [
-    { title: 'Hải Châu', imageSrc: 'https://n1-pstg.mioto.vn/cho_thue_xe_o_to_tu_lai_thue_xe_du_lich_hochiminh/mitsubishi_triton_4x2_2022/p/g/2023/02/14/11/0rQNwCDQJ1T0r_y5BUrHuQ.jpg' },
-    { title: 'Ngũ Hành Sơn', imageSrc: 'https://n1-pstg.mioto.vn/cho_thue_xe_o_to_tu_lai_thue_xe_du_lich_hochiminh/toyota_veloz_cross_2022/p/g/2023/02/14/15/FJpzIca_F0NmNDIZfTuBOw.jpg' },
-    { title: 'Liên Chiểu', imageSrc: 'https://n1-pstg.mioto.vn/cho_thue_xe_o_to_tu_lai_thue_xe_du_lich_hochiminh/toyota_veloz_cross_2023/p/g/2023/09/05/02/787CToKarNoikFrHZiGTHQ.jpg' },
-    { title: 'Thanh Khê', imageSrc: 'https://n1-pstg.mioto.vn/cho_thue_xe_o_to_tu_lai_thue_xe_du_lich_hochiminh/mg_5_standard_2022/p/g/2023/02/24/15/gOKXS1RzjoekP3sHp1HO1w.jpg' },
-    { title: 'Cẩm Lệ', imageSrc: 'https://n1-pstg.mioto.vn/cho_thue_xe_o_to_tu_lai_thue_xe_du_lich_hochiminh/hyundai_kona_2019/p/g/2023/10/09/12/Krz-i_VhIZdY9bxllKetHw.jpg' },
-    { title: 'Sơn Trà', imageSrc: 'https://n1-pstg.mioto.vn/cho_thue_xe_o_to_tu_lai_thue_xe_du_lich_hochiminh/mitsubishi_triton_4x2_2022/p/g/2023/02/14/11/0rQNwCDQJ1T0r_y5BUrHuQ.jpg' },
-    { title: 'Hòa Vang', imageSrc: 'https://n1-pstg.mioto.vn/cho_thue_xe_o_to_tu_lai_thue_xe_du_lich_hochiminh/vinfast_fadil_2020/p/g/2022/01/09/16/P-oIwXOF8JhWR77hRK3ZyQ.jpg' },
+    { title: 'Quận 3', imageSrc: 'https://n1-pstg.mioto.vn/cho_thue_xe_o_to_tu_lai_thue_xe_du_lich_hochiminh/mitsubishi_triton_4x2_2022/p/g/2023/02/14/11/0rQNwCDQJ1T0r_y5BUrHuQ.jpg' },
+    { title: 'Thủ Đức', imageSrc: 'https://n1-pstg.mioto.vn/cho_thue_xe_o_to_tu_lai_thue_xe_du_lich_hochiminh/toyota_veloz_cross_2022/p/g/2023/02/14/15/FJpzIca_F0NmNDIZfTuBOw.jpg' },
+    { title: 'Quận 1', imageSrc: 'https://n1-pstg.mioto.vn/cho_thue_xe_o_to_tu_lai_thue_xe_du_lich_hochiminh/toyota_veloz_cross_2023/p/g/2023/09/05/02/787CToKarNoikFrHZiGTHQ.jpg' },
+    { title: 'Quận 4', imageSrc: 'https://n1-pstg.mioto.vn/cho_thue_xe_o_to_tu_lai_thue_xe_du_lich_hochiminh/mg_5_standard_2022/p/g/2023/02/24/15/gOKXS1RzjoekP3sHp1HO1w.jpg' },
+    { title: 'Quận 5', imageSrc: 'https://n1-pstg.mioto.vn/cho_thue_xe_o_to_tu_lai_thue_xe_du_lich_hochiminh/hyundai_kona_2019/p/g/2023/10/09/12/Krz-i_VhIZdY9bxllKetHw.jpg' },
+    { title: 'Quận 9', imageSrc: 'https://n1-pstg.mioto.vn/cho_thue_xe_o_to_tu_lai_thue_xe_du_lich_hochiminh/mitsubishi_triton_4x2_2022/p/g/2023/02/14/11/0rQNwCDQJ1T0r_y5BUrHuQ.jpg' },
+    { title: 'Bình thạnh', imageSrc: 'https://n1-pstg.mioto.vn/cho_thue_xe_o_to_tu_lai_thue_xe_du_lich_hochiminh/vinfast_fadil_2020/p/g/2022/01/09/16/P-oIwXOF8JhWR77hRK3ZyQ.jpg' },
 
   ];
 
